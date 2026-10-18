@@ -1,8 +1,8 @@
 {
   "id": "5bcd5640-ce46-4a49-9577-540d78ac850d",
-  "name": "PlougmannVingtoft BC Online Customization (Common)",
+  "name": "PlougmannVingtoft BC Online Customization (DK)",
   "publisher": "Naviators A/S",
-  "version": "1.0.0.0",
+  "version": "26.0.0.4",
   "brief": "",
   "description": "PlougmannVingtoft BC Online Customization (DK)",
   "privacyStatement": "",
@@ -10,14 +10,62 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    { 
+    "id": "f7933041-623e-47f5-a207-c3f5fe6df06a",
+    "name": "PlougmannVingtoft BC Online Customization (Common)",
+    "publisher": "Naviators A/S",
+    "version": "26.0.0.0"
+  },
+     { 
+    "id": "2156a141-6b57-49e7-8411-83137b5f322f",
+    "name": "Atlas Project Management",
+    "publisher": "Naviators A/S",
+    "version": "24.1.1.255"
+  },
+       { 
+    "id": "1f8a420c-5816-46ba-8958-482a76e89775",
+    "name": "Atlas Project Management Advanced",
+    "publisher": "Naviators",
+    "version": "25.0.0.33"
+  },
+  { 
+    "id": "e12bfb2a-eb07-4b9b-b749-3a82234b1f6e",
+    "name": "Atlas CPM",
+    "publisher": "Naviators",
+    "version": "25.3.0.303"
+  },
+  
+       { 
+    "id": "14340ba6-5934-4145-8e14-dbf1846fef80",
+    "name": "Continia Payment Management",
+    "publisher": "Continia Software",
+    "version": "27.1.0.0"
+  },
+       { 
+    "id": "ac762be1-e90f-4a72-b519-612a5e3ddc2e",
+    "name": "OIOUBL",
+    "publisher": "Microsoft",
+    "version": "27.1.0.0"
+  }
+  ,
+       { 
+    "id": "c31ee575-3fc7-4388-98ee-d75aa2fc5f87",
+    "name": "Withholding Tax",
+    "publisher": "Microsoft",
+    "version": "27.1.0.0"
+  }
+  
+       
+  
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "25.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 53100,
+      "to": 53149
     }
   ],
   "resourceExposurePolicy": {
