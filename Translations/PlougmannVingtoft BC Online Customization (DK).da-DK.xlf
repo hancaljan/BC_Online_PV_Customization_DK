@@ -137,7 +137,7 @@
         </trans-unit>
         <trans-unit id="Report 300654779 - NamedType 1243851074" size-unit="char" translate="yes" xml:space="preserve">
           <source>Home Page</source>
-          <target state="needs-l10n">Hjemmeside</target>
+          <target state="translated">Hjemmeside</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Credit Memo - NamedType HomePageLbl</note>
         </trans-unit>
@@ -209,7 +209,7 @@
         </trans-unit>
         <trans-unit id="Report 300654779 - NamedType 1598131834" size-unit="char" translate="yes" xml:space="preserve">
           <source>Payment Account</source>
-          <target state="translated">Betalings Konto </target>
+          <target state="translated">Betalingskonto</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Credit Memo - NamedType PaymentAccount_Lbl</note>
         </trans-unit>
@@ -371,7 +371,7 @@
         </trans-unit>
         <trans-unit id="Report 300654779 - NamedType 2410138484" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="needs-l10n">I alt</target>
+          <target state="translated">I alt</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Credit Memo - NamedType TotalLbl</note>
         </trans-unit>
@@ -455,7 +455,7 @@
         </trans-unit>
         <trans-unit id="Report 300654779 - NamedType 2955294945" size-unit="char" translate="yes" xml:space="preserve">
           <source>VAT Reg. No.</source>
-          <target state="needs-l10n">CVR-nr.</target>
+          <target state="translated">CVR-nr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Credit Memo - NamedType VatRegNo_Lbl</note>
         </trans-unit>
@@ -479,7 +479,7 @@
         </trans-unit>
         <trans-unit id="Report 300654779 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Options</source>
-          <target state="needs-l10n">Indstillinger</target>
+          <target state="translated">Indstillinger</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Credit Memo - Control Options - Property Caption</note>
         </trans-unit>
@@ -641,7 +641,7 @@
         </trans-unit>
         <trans-unit id="Report 1682762921 - NamedType 1243851074" size-unit="char" translate="yes" xml:space="preserve">
           <source>Home Page</source>
-          <target state="needs-l10n">Hjemmeside</target>
+          <target state="translated">Hjemmeside</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Invoice - NamedType HomePageLbl</note>
         </trans-unit>
@@ -713,7 +713,7 @@
         </trans-unit>
         <trans-unit id="Report 1682762921 - NamedType 1598131834" size-unit="char" translate="yes" xml:space="preserve">
           <source>Payment Account</source>
-          <target state="translated">Betalings Konto </target>
+          <target state="translated">Betalingskonto</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Invoice - NamedType PaymentAccount_Lbl</note>
         </trans-unit>
@@ -875,7 +875,7 @@
         </trans-unit>
         <trans-unit id="Report 1682762921 - NamedType 2410138484" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="needs-l10n">I alt</target>
+          <target state="translated">I alt</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Invoice - NamedType TotalLbl</note>
         </trans-unit>
@@ -959,7 +959,7 @@
         </trans-unit>
         <trans-unit id="Report 1682762921 - NamedType 2955294945" size-unit="char" translate="yes" xml:space="preserve">
           <source>VAT Reg. No.</source>
-          <target state="needs-l10n">CVR-nr.</target>
+          <target state="translated">CVR-nr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Invoice - NamedType VatRegNo_Lbl</note>
         </trans-unit>
@@ -983,7 +983,7 @@
         </trans-unit>
         <trans-unit id="Report 1682762921 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Options</source>
-          <target state="needs-l10n">Indstillinger</target>
+          <target state="translated">Indstillinger</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Invoice - Control Options - Property Caption</note>
         </trans-unit>
@@ -1007,7 +1007,7 @@
         </trans-unit>
         <trans-unit id="Report 443001904 - NamedType 3067404655" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="needs-l10n">I alt</target>
+          <target state="translated">I alt</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Invoice Spec. - NamedType DSL_Amount_Lbl</note>
         </trans-unit>
@@ -1019,7 +1019,7 @@
         </trans-unit>
         <trans-unit id="Report 443001904 - NamedType 348181761" size-unit="char" translate="yes" xml:space="preserve">
           <source>Description</source>
-          <target state="needs-l10n">Beskrivelse</target>
+          <target state="translated">Beskrivelse</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Invoice Spec. - NamedType DSL_Description_Lbl</note>
         </trans-unit>
@@ -1049,7 +1049,7 @@
         </trans-unit>
         <trans-unit id="Report 443001904 - NamedType 361509151" size-unit="char" translate="yes" xml:space="preserve">
           <source>Invoice No.</source>
-          <target state="needs-l10n">Fakturanr.</target>
+          <target state="translated">Fakturanr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Invoice Spec. - NamedType InvoiceNo_Lbl</note>
         </trans-unit>
@@ -1115,7 +1115,7 @@
         </trans-unit>
         <trans-unit id="Report 443001904 - NamedType 937382769" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="needs-l10n">I alt</target>
+          <target state="translated">I alt</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Draft Invoice Spec. - NamedType Total_Lbl</note>
         </trans-unit>
@@ -1145,7 +1145,7 @@
         </trans-unit>
         <trans-unit id="Report 1388221540 - NamedType 175863088" size-unit="char" translate="yes" xml:space="preserve">
           <source>Payment Account</source>
-          <target state="translated">Betalings Konto </target>
+          <target state="translated">Betalingskonto</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - NamedType CompanyInfoBankAccNoCptnLbl</note>
         </trans-unit>
@@ -1175,13 +1175,13 @@
         </trans-unit>
         <trans-unit id="Report 1388221540 - NamedType 3448977668" size-unit="char" translate="yes" xml:space="preserve">
           <source>VAT Reg. No.</source>
-          <target state="needs-l10n">CVR-nr.</target>
+          <target state="translated">CVR-nr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - NamedType CompanyInfoVATRegNoCptnLbl</note>
         </trans-unit>
         <trans-unit id="Report 1388221540 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
           <source>Document Date</source>
-          <target state="needs-l10n">Bilagsdato</target>
+          <target state="translated">Bilagsdato</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - NamedType DocumentDateCaptionLbl</note>
         </trans-unit>
@@ -1211,7 +1211,7 @@
         </trans-unit>
         <trans-unit id="Report 1388221540 - NamedType 2862688884" size-unit="char" translate="yes" xml:space="preserve">
           <source>Home Page</source>
-          <target state="needs-l10n">Hjemmeside</target>
+          <target state="translated">Hjemmeside</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - NamedType HomePageCaptionLbl</note>
         </trans-unit>
@@ -1229,7 +1229,7 @@
         </trans-unit>
         <trans-unit id="Report 1388221540 - NamedType 3319152384" size-unit="char" translate="yes" xml:space="preserve">
           <source>Invoice No.</source>
-          <target state="needs-l10n">Fakturanr.</target>
+          <target state="translated">Fakturanr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - NamedType InvNoCaptionLbl</note>
         </trans-unit>
@@ -1379,13 +1379,13 @@
         </trans-unit>
         <trans-unit id="Report 1388221540 - NamedType 14768227" size-unit="char" translate="yes" xml:space="preserve">
           <source>Payment Account</source>
-          <target state="translated">Betalings Konto </target>
+          <target state="translated">Betalingskonto</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - NamedType Text50001</note>
         </trans-unit>
         <trans-unit id="Report 1388221540 - NamedType 1927858078" size-unit="char" translate="yes" xml:space="preserve">
           <source>VAT Reg. No.</source>
-          <target state="needs-l10n">CVR-nr.</target>
+          <target state="translated">CVR-nr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - NamedType Text50002</note>
         </trans-unit>
@@ -1415,7 +1415,7 @@
         </trans-unit>
         <trans-unit id="Report 1388221540 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="needs-l10n">I alt</target>
+          <target state="translated">I alt</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - NamedType TotalCaptionLbl</note>
         </trans-unit>
@@ -1487,13 +1487,13 @@
         </trans-unit>
         <trans-unit id="Report 1388221540 - Control 624161470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Options</source>
-          <target state="needs-l10n">Indstillinger</target>
+          <target state="translated">Indstillinger</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - Control Indstillinger - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 1388221540 - Control 1885540899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Show Assembly Components</source>
-          <target state="needs-l10n">Vis stykliste</target>
+          <target state="translated">Vis stykliste</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Manual Sales Invoice - Control DisplayAsmInformation - Property Caption</note>
         </trans-unit>
@@ -1535,7 +1535,7 @@
         </trans-unit>
         <trans-unit id="Report 3716914271 - NamedType 3743528138" size-unit="char" translate="yes" xml:space="preserve">
           <source>Applies to Document</source>
-          <target state="needs-l10n">Udlignet med dokument</target>
+          <target state="translated">Udlignet med dokument</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Credit Memo - NamedType AppliesToTextLbl</note>
         </trans-unit>
@@ -1637,7 +1637,7 @@
         </trans-unit>
         <trans-unit id="Report 3716914271 - NamedType 1243851074" size-unit="char" translate="yes" xml:space="preserve">
           <source>Home Page</source>
-          <target state="needs-l10n">Hjemmeside</target>
+          <target state="translated">Hjemmeside</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Credit Memo - NamedType HomePageLbl</note>
         </trans-unit>
@@ -1655,7 +1655,7 @@
         </trans-unit>
         <trans-unit id="Report 3716914271 - NamedType 259914550" size-unit="char" translate="yes" xml:space="preserve">
           <source>Credit Memo No.</source>
-          <target state="needs-l10n">Kreditnotanr.</target>
+          <target state="translated">Kreditnotanr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Credit Memo - NamedType InvNoLbl</note>
         </trans-unit>
@@ -1709,7 +1709,7 @@
         </trans-unit>
         <trans-unit id="Report 3716914271 - NamedType 1598131834" size-unit="char" translate="yes" xml:space="preserve">
           <source>Payment Account</source>
-          <target state="translated">Betalings Konto </target>
+          <target state="translated">Betalingskonto</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Credit Memo - NamedType PaymentAccount_Lbl</note>
         </trans-unit>
@@ -1847,7 +1847,7 @@
         </trans-unit>
         <trans-unit id="Report 3716914271 - NamedType 2410138484" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="needs-l10n">I alt</target>
+          <target state="translated">I alt</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Credit Memo - NamedType TotalLbl</note>
         </trans-unit>
@@ -1925,7 +1925,7 @@
         </trans-unit>
         <trans-unit id="Report 3716914271 - NamedType 2955294945" size-unit="char" translate="yes" xml:space="preserve">
           <source>VAT Reg. No.</source>
-          <target state="needs-l10n">CVR-nr.</target>
+          <target state="translated">CVR-nr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Credit Memo - NamedType VatRegNo_Lbl</note>
         </trans-unit>
@@ -1937,13 +1937,13 @@
         </trans-unit>
         <trans-unit id="Report 3716914271 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Sales Credit Memo</source>
-          <target state="needs-l10n">Bogført salgskreditnota</target>
+          <target state="translated">Bogført salgskreditnota</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Credit Memo - ReportDataItem Header - Property RequestFilterHeading</note>
         </trans-unit>
         <trans-unit id="Report 3716914271 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Options</source>
-          <target state="needs-l10n">Indstillinger</target>
+          <target state="translated">Indstillinger</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Credit Memo - Control Options - Property Caption</note>
         </trans-unit>
@@ -1955,7 +1955,7 @@
         </trans-unit>
         <trans-unit id="Report 3716914271 - Control 1885540899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Show Assembly Components</source>
-          <target state="needs-l10n">Vis stykliste</target>
+          <target state="translated">Vis stykliste</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Credit Memo - Control DisplayAsmInformation - Property Caption</note>
         </trans-unit>
@@ -2129,7 +2129,7 @@
         </trans-unit>
         <trans-unit id="Report 3780308981 - NamedType 1243851074" size-unit="char" translate="yes" xml:space="preserve">
           <source>Home Page</source>
-          <target state="needs-l10n">Hjemmeside</target>
+          <target state="translated">Hjemmeside</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice - NamedType HomePageLbl</note>
         </trans-unit>
@@ -2147,7 +2147,7 @@
         </trans-unit>
         <trans-unit id="Report 3780308981 - NamedType 259914550" size-unit="char" translate="yes" xml:space="preserve">
           <source>Invoice No.</source>
-          <target state="needs-l10n">Fakturanr.</target>
+          <target state="translated">Fakturanr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice - NamedType InvNoLbl</note>
         </trans-unit>
@@ -2225,7 +2225,7 @@
         </trans-unit>
         <trans-unit id="Report 3780308981 - NamedType 1598131834" size-unit="char" translate="yes" xml:space="preserve">
           <source>Payment Account</source>
-          <target state="translated">Betalings Konto </target>
+          <target state="translated">Betalingskonto</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice - NamedType PaymentAccount_Lbl</note>
         </trans-unit>
@@ -2387,7 +2387,7 @@
         </trans-unit>
         <trans-unit id="Report 3780308981 - NamedType 2410138484" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="needs-l10n">I alt</target>
+          <target state="translated">I alt</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice - NamedType TotalLbl</note>
         </trans-unit>
@@ -2471,7 +2471,7 @@
         </trans-unit>
         <trans-unit id="Report 3780308981 - NamedType 2955294945" size-unit="char" translate="yes" xml:space="preserve">
           <source>VAT Reg. No.</source>
-          <target state="needs-l10n">CVR-nr.</target>
+          <target state="translated">CVR-nr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice - NamedType VatRegNo_Lbl</note>
         </trans-unit>
@@ -2489,13 +2489,13 @@
         </trans-unit>
         <trans-unit id="Report 3780308981 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted Sales Invoice</source>
-          <target state="needs-l10n">Bogført salgsfaktura</target>
+          <target state="translated">Bogført salgsfaktura</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice - ReportDataItem Header - Property RequestFilterHeading</note>
         </trans-unit>
         <trans-unit id="Report 3780308981 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Options</source>
-          <target state="needs-l10n">Indstillinger</target>
+          <target state="translated">Indstillinger</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice - Control Options - Property Caption</note>
         </trans-unit>
@@ -2519,7 +2519,7 @@
         </trans-unit>
         <trans-unit id="Report 3780308981 - Control 1885540899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Show Assembly Components</source>
-          <target state="needs-l10n">Vis stykliste</target>
+          <target state="translated">Vis stykliste</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice - Control DisplayAsmInformation - Property Caption</note>
         </trans-unit>
@@ -2567,7 +2567,7 @@
         </trans-unit>
         <trans-unit id="Report 351772876 - NamedType 3067404655" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="needs-l10n">I alt</target>
+          <target state="translated">I alt</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice Spec. - NamedType DSL_Amount_Lbl</note>
         </trans-unit>
@@ -2579,7 +2579,7 @@
         </trans-unit>
         <trans-unit id="Report 351772876 - NamedType 348181761" size-unit="char" translate="yes" xml:space="preserve">
           <source>Description</source>
-          <target state="needs-l10n">Beskrivelse</target>
+          <target state="translated">Beskrivelse</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice Spec. - NamedType DSL_Description_Lbl</note>
         </trans-unit>
@@ -2609,7 +2609,7 @@
         </trans-unit>
         <trans-unit id="Report 351772876 - NamedType 361509151" size-unit="char" translate="yes" xml:space="preserve">
           <source>Invoice No.</source>
-          <target state="needs-l10n">Fakturanr.</target>
+          <target state="translated">Fakturanr.</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice Spec. - NamedType InvoiceNo_Lbl</note>
         </trans-unit>
@@ -2675,7 +2675,7 @@
         </trans-unit>
         <trans-unit id="Report 351772876 - NamedType 937382769" size-unit="char" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="needs-l10n">I alt</target>
+          <target state="translated">I alt</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Report NCX_DK PV Posted Invoice Spec. - NamedType Total_Lbl</note>
         </trans-unit>
